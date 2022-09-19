@@ -1,0 +1,17 @@
+body{
+    background: #E9ECEF;
+}
+.ortalama{
+    position: relative;
+    margin: auto;
+}
+.renk{
+    background-color: #E9ECEF;
+}
+.baslik{
+   color: rgb(75, 184, 239);
+}
+.nav-link:hover{
+    background-color: rgb(75, 184, 239);
+    color: black;
+}
